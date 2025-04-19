@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bibek-ghimire-447b4b286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bibek-ghimire-447b4b286/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/bibek.ghimire.790693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bibek.ghimire.790693" height="30" width="40" /></a>
+<a href="https://www.facebook.com/bibek.ghimire.790693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bibek.ghimire.790693" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bibek.ghimire.790693?igsh=YW9iZnk1dmhpM2J5&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bibek.ghimire.790693?igsh=yw9iznk1dmhpm2j5&utm_source=qr" height="30" width="40" /></a>
 <a href="https://discord.gg/bibek9208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bibek9208" height="30" width="40" /></a>
 </p>
