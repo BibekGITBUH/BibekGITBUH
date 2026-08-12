@@ -4,14 +4,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekgitbuh&label=Profile%20views&color=0e75b6&style=flat" alt="bibekgitbuh" /> </p>
 
 
-- 🔭 I’m currently working on **Online Food Delivery** , **Link:** (Provided Soon ...)
 
-- 🌱 I’m currently learning **Machine Learning and Cyber Security**
+- 💻 Full-Stack Developer focused on JavaScript & TypeScript
+- ⚙️ Frontend & Backend: JavaScript, TypeScript, Node.js, Express.js, React, HTML, CSS
+- 🗄️ Databases: MongoDB, MySQL, PostgreSQL, and Vector Databases
+- 🔐 Security: Security-focused development, application security, and cybersecurity
+- 🤖 AI: Machine Learning → Deep Learning → LLMs → Generative AI → Computer Vision
+- 🐳 DevOps & Infrastructure: Docker, Kubernetes (K8s), K9s, k6, CI/CD, and DevOps
+- ☁️ Cloud: Cloud infrastructure, deployment, scalability, and production systems
 
+- 🚀 Current Product: **ForgeOfCreation v1.0**
+- 🔭 Domain-Specific Chat: http://80.225.246.222:8080/
+- 🧠 Local Agent: https://github.com/BibekGITBUH/local-agent-ForgeOfCreation-v1.0
+- 
 - 👨‍💻 All of my projects are available at: [https://github.com/BibekGITBUH?tab=repositories](https://github.com/BibekGITBUH?tab=repositories)
-
-- ⚙️ Knowledge gained, mastery in progress: **JS, Node.js, express.js, React, HTML, CSS, MySql, MongoDB**
-
 - 📫 How to reach me:  **bibekghimire058.np@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
