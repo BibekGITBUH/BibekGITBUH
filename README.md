@@ -5,8 +5,8 @@
 
 
 
-- 💻 Full-Stack Developer focused on JavaScript & TypeScript
-- ⚙️ Frontend & Backend: JavaScript, TypeScript, Node.js, Express.js, React, HTML, CSS
+- 💻 Full-Stack Developer focused on JavaScript & TypeScript , Python
+- ⚙️ Frontend & Backend: JavaScript, TypeScript, Node.js, Express.js, React, FastApi, HTML, CSS
 - 🗄️ Databases: MongoDB, MySQL, PostgreSQL, and Vector Databases
 - 🔐 Security: Security-focused development, application security, and cybersecurity
 - 🤖 AI: Machine Learning → Deep Learning → LLMs → Generative AI → Computer Vision
