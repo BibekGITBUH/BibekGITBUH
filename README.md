@@ -14,9 +14,9 @@
 - ☁️ Cloud: Cloud infrastructure, deployment, scalability, and production systems
 
 - 🚀 Current Product: **ForgeOfCreation v1.0**
-- 🔭 Domain-Specific Chat: http://80.225.246.222:8080/
-- 🧠 Local Agent: https://github.com/BibekGITBUH/local-agent-ForgeOfCreation-v1.0
-- 
+  - 🔭 Domain-Specific Chat: http://80.225.246.222:8080/
+  - 🧠 Local Agent: https://github.com/BibekGITBUH/local-agent-ForgeOfCreation-v1.0
+  
 - 👨‍💻 All of my projects are available at: [https://github.com/BibekGITBUH?tab=repositories](https://github.com/BibekGITBUH?tab=repositories)
 - 📫 How to reach me:  **bibekghimire058.np@gmail.com**
 
